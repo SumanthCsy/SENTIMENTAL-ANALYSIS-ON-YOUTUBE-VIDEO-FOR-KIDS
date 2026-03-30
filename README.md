@@ -1,6 +1,6 @@
 # 📂 YouTube Sentiment Analysis - Source Code
 
-This directory contains the full Django implementation of the **YouTube Sentiment Analysis For Kids** project.
+This directory contains the full Django implementation of the **# SENTIMENTAL-ANALYSIS-ON-YOUTUBE-VIDEO-FOR-KIDS** project.
 
 ---
 
